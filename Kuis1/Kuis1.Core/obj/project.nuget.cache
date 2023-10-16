@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OLeWP4Wd+pGc7EaE4m2rJF/ANM40B4Laua4qOyNRhBDb20ZDpmgtFTphFH+uBCXK9F0feQFerR14fYXYa3C1ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OSVALDO KURNIAWAN\\Documents\\Semester 5\\PBKK\\Kuis1\\Kuis1.Core\\Kuis1.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OSVALDO KURNIAWAN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\OSVALDO KURNIAWAN\\.nuget\\packages\\microsoft.toolkit.uwp.ui.controls\\7.0.2\\microsoft.toolkit.uwp.ui.controls.7.0.2.nupkg.sha512",
+    "C:\\Users\\OSVALDO KURNIAWAN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\OSVALDO KURNIAWAN\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuis1\Kuis1.Core\obj\Debug\netstandard2.0\Kuis1.Core.csproj.AssemblyReference.cache
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuis1\Kuis1.Core\obj\Debug\netstandard2.0\Kuis1.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuis1\Kuis1.Core\obj\Debug\netstandard2.0\Kuis1.Core.AssemblyInfoInputs.cache
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuis1\Kuis1.Core\obj\Debug\netstandard2.0\Kuis1.Core.AssemblyInfo.cs
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuis1\Kuis1.Core\obj\Debug\netstandard2.0\Kuis1.Core.csproj.CoreCompileInputs.cache
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuis1\Kuis1.Core\bin\Debug\netstandard2.0\Kuis1.Core.deps.json
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuis1\Kuis1.Core\bin\Debug\netstandard2.0\Kuis1.Core.dll
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuis1\Kuis1.Core\bin\Debug\netstandard2.0\Kuis1.Core.pdb
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuis1\Kuis1.Core\obj\Debug\netstandard2.0\Kuis1.Core.dll
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuis1\Kuis1.Core\obj\Debug\netstandard2.0\Kuis1.Core.pdb
